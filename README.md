@@ -81,10 +81,6 @@ To evaluate the performance of the model on a test set, run:
 bash
 python evaluate.py --data-dir path/to/test-dataset
 
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
